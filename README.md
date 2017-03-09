@@ -1,5 +1,7 @@
 Duden
 ===
+MacOS TabBar Translation App
+
 
 ## License
 
